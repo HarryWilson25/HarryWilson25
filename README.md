@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harry Wilson</h1>
 <h3 align="center">AI/LLM · Mobile · Laravel · MERN — Full-Stack Developer based in the United Kingdom 🇬🇧</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harry-Wilson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="#"><img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-2ea44f?style=flat" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
 
 I'm a full-stack developer who likes building things that make it into people's hands — web platforms, mobile apps, and AI features that do something genuinely useful. Lately I've been focused on weaving large language models into real products rather than just experimenting with them.
 
-- 🔭 Currently building **AI-powered apps** with LLM integration and RAG architectures
-- 🌱 Going deep on **LangChain, LangGraph, vector databases & agentic systems**
-- 📱 Shipping cross-platform mobile apps with **React Native & Flutter**
-- 💬 Ask me about **Laravel, Vue/Nuxt, Next.js, and AI integration**
-- ⚡ I care about clean, readable, maintainable code
+- Currently building **AI-powered apps** with LLM integration and RAG architectures
+- Going deep on **LangChain, LangGraph, vector databases & agentic systems**
+- Shipping cross-platform mobile apps with **React Native & Flutter**
+- Ask me about **Laravel, Vue/Nuxt, Next.js, and AI integration**
+- care about clean, readable, maintainable code
 
 ---
 
