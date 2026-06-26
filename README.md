@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry Wilson</h1>
-<h3 align="center">AI/LLM · Mobile · Laravel · MERN — Full-Stack Developer based in the United Kingdom 🇬🇧</h3>
-
+<h3 align="center">AI/LLM · Mobile · Laravel · MERN, Full-Stack Developer
 ---
 
 ### 🚀 About Me
